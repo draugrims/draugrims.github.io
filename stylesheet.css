@@ -52,7 +52,7 @@ h1, h2, h3 {
 
 #aboutme {
   background: rgba(0, 0, 0, 0.5);
-  padding: 40px;
+  padding: 20px 40px;
   margin: 40px auto;
   max-width: 900px;
   border-radius: 10px;
