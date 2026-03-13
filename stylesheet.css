@@ -47,7 +47,7 @@ p {
 
 h1, h2, h3 {
   color: white; 
-  -webkit-text-stroke: 0.063rem black;
+  -webkit-text-stroke: 0.12rem black;
   -webkit-text-fill-color: white;
 }
 #aboutme {
