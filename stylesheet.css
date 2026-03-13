@@ -62,13 +62,13 @@ h1, h2, h3 {
 
 #aboutme h2 {
   margin-bottom: 20px;
-  -webkit-text-stroke: none;
-  -webkit-text-fill-color: none;
+  -webkit-text-stroke: 0;
+  -webkit-text-fill-color: white;
 }
 
 #aboutme p {
   color: white;
-  -webkit-text-stroke: none;
-  -webkit-text-fill-color: none;
+  -webkit-text-stroke: 0;
+  -webkit-text-fill-color: white;
 }
   
