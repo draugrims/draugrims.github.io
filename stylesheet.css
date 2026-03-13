@@ -47,7 +47,7 @@ p {
 
 h1, h2, h3 {
   color: white; 
-  -webkit-text-stroke: 0.063 rem black;
+  -webkit-text-stroke: 0.063rem black;
   -webkit-text-fill-color: white;
 }
 #aboutme {
@@ -76,7 +76,7 @@ h1, h2, h3 {
   background: rgba(0, 0, 0, 0.5);
   padding: 1.25rem 2.5rem;
   margin: 2.5rem auto;
-  max-width: 85%;
+  width: 85%;
   border-radius: 0.625rem;
   text-align: left;
   color: black;
