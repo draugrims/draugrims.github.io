@@ -21,7 +21,7 @@ img {
 }
 
 h1 {
-  font-size: 42px;
+  font-size: 72px;
   margin-bottom: 10px;
 }
 
@@ -62,9 +62,13 @@ h1, h2, h3 {
 
 #aboutme h2 {
   margin-bottom: 20px;
+  -webkit-text-stroke: none;
+  -webkit-text-fill-color: none;
 }
 
 #aboutme p {
   color: white;
+  -webkit-text-stroke: none;
+  -webkit-text-fill-color: none;
 }
   
