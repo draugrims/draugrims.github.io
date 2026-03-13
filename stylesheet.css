@@ -59,13 +59,13 @@ h1, h2, h3 {
   color: black;
 }
 
-#aboutme h2 {
+#aboutme h2, #projects h2 {
   margin-bottom: 1.25rem;
   -webkit-text-stroke: 0;
   -webkit-text-fill-color: white;
 }
 
-#aboutme p {
+#aboutme p, #projects p {
   color: white;
   -webkit-text-stroke: 0;
   -webkit-text-fill-color: white;
